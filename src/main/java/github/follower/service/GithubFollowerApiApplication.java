@@ -1,4 +1,4 @@
-package org.github.follower.solution.api;
+package github.follower.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

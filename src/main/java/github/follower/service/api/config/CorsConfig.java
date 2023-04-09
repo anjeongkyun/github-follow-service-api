@@ -1,4 +1,4 @@
-package org.github.follower.solution.api.api.config;
+package github.follower.service.api.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
