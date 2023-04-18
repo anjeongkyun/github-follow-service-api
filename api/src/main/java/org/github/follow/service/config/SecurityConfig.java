@@ -1,4 +1,4 @@
-package github.follower.service.api.config;
+package org.github.follow.service.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

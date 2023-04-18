@@ -1,5 +1,0 @@
-server:
-  port: 8085
-
-database:
-  url: mongodb://localhost:27017/test

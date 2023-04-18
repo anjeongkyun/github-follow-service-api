@@ -16,7 +16,7 @@
     </module>
     <!-- https://checkstyle.org/config_filters.html#SuppressionFilter -->
     <module name="SuppressionFilter">
-        <property name="file" value="${org.checkstyle.google.suppressionfilter.config}"
+        <property name="file" value="${org.checkstyle.google.suppressionfilter.org.github.follow.service.config}"
                   default="checkstyle-suppressions.xml" />
         <property name="optional" value="true"/>
     </module>
@@ -308,7 +308,7 @@
         </module>
         <!-- https://checkstyle.org/config_filters.html#SuppressionXpathFilter -->
         <module name="SuppressionXpathFilter">
-            <property name="file" value="${org.checkstyle.google.suppressionxpathfilter.config}"
+            <property name="file" value="${org.checkstyle.google.suppressionxpathfilter.org.github.follow.service.config}"
                       default="checkstyle-xpath-suppressions.xml" />
             <property name="optional" value="true"/>
         </module>

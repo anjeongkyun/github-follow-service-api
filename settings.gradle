@@ -5,4 +5,11 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'github-follower-api'
+rootProject.name = 'github-follower-service-api'
+include 'api'
+include 'contracts'
+include 'data-access'
+include 'domain-model'
+include 'gateways'
+include 'unit-test'
+
